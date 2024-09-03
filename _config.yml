@@ -1,7 +1,7 @@
 # Site settings
 title: The Pan Protocol - Securing the Digital Grove
 email: iwschisel@gmail.com
-description: Welcome to 'The Pan Protocol: Securing the Digital Grove,' a blog dedicated to my journey through the ever-evolving world of cybersecurity. As I navigate the complexities and challenges of digital security, I share my personal experiences, insights, and learning. From the foundational steps of IT to advanced cybersecurity strategies, join me as I uncover the mysteries of protecting the digital landscape and develop my own protocols for securing the cyber realm. Follow along for practical advice, project updates, and reflections on the path to becoming a skilled cybersecurity professional.
+description: Welcome to The Pan Protocol: Securing the Digital Grove, a blog dedicated to my journey through the ever-evolving world of cybersecurity. As I navigate the complexities and challenges of digital security, I share my personal experiences, insights, and learning. From the foundational steps of IT to advanced cybersecurity strategies, join me as I uncover the mysteries of protecting the digital landscape and develop my own protocols for securing the cyber realm. Follow along for practical advice, project updates, and reflections on the path to becoming a skilled cybersecurity professional.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://TheGreatGodPan.github.io" # the base hostname & protocol for your site
 
