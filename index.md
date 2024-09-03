@@ -18,8 +18,17 @@ layout: default
     <p>From my beginnings in IT to my current focus on cybersecurity, I have developed a deep understanding of the field. My experiences have shaped my approach to solving complex problems and securing networks.</p>
   </section>
 
-  <section class="projects">
-    <h2>Projects</h2>
+  <section class="current-projects">
+    <h2>Current Projects</h2>
+    <ul>
+      <li>TryHackMe SOC Level 1</li>
+      <li>Threat Tracker</li>
+      <li>Reading Web Application Hacking 2nd Edition</li>
+    </ul>
+  </section>
+
+  <section class="past-projects">
+    <h2>Past Projects</h2>
     <ul>
       <li>Homelab Configurations</li>
       <li>Security Audits and Penetration Testing</li>
