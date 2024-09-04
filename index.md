@@ -24,7 +24,7 @@ layout: default
       <li>TryHackMe SOC Level 1</li>
       <li>Threat Tracker</li>
       <li>Reading Web Application Hacking 2nd Edition</li>
-      <li><a href="powershell-projects.html">PowerShell Projects</a></li>
+      <li><a href="powershell-projects.md">PowerShell Projects</a></li>
     </ul>
   </section>
 
